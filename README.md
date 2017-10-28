@@ -35,15 +35,16 @@ Please have access to:
 
 ## Links
 
-* [Presentation Slides]()
-* [Demo Files]()
+* [Presentation Slides](./presentation/GithubPagesWorkshop-UVicWebDevClub.pdf)
+* [Demo Files](./demo-files)
 
 ## Resources
 
 * https://github.com/join
 * https://pages.github.com/
-* http://git-scm.com/download/mac
+* http://git-scm.com/download/
 
 ## References
 
 * https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+* https://i.ytimg.com/vi/ikMrTj_dhWM/hqdefault.jpg
